@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Authors>Chino Chang</Authors>
+    <Description>Snowflake-like ID generating for .Net</Description>
+    <PackageTags>fastid,snowflake</PackageTags>
+
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+  </PropertyGroup>
+
+</Project>
